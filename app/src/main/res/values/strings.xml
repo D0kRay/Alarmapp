@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarmapp</string>
+    <string name="hint">Anzahl der Sekunden</string>
+    <string name="buttonText">Starte Timer</string>
+</resources>
